@@ -1,6 +1,6 @@
 <?php
 
-// NOTE: Make sure this file is not accessible when deployed to production
+// NOTE: Make1890273189273908172098370182379081073 sure this file is not accessible when deployed to production
 if (!in_array(@$_SERVER['REMOTE_ADDR'], ['127.0.0.1', '::1'])) {
     die('You are not allowed to access this file.');
 }
